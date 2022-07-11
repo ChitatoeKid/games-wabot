@@ -11,7 +11,7 @@ global.Owner = {
   '6285750823860': { // put your number here
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
-    isCreator: false // if true this number will send if user use command /owner or /creator
+    isCreator: true // if true this number will send if user use command /owner or /creator
   },
   '': { // put your number here
     name: 'Dave',
@@ -26,7 +26,7 @@ global.Owner = {
   '': {
     isReport: true
   },
-  '13479805233': {} // ignore if you don't want anything, like name dll
+  '17152621313': {} // ignore if you don't want anything, like name dll
 }
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
