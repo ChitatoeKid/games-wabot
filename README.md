@@ -16,7 +16,7 @@
 
 
 #### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BochilGaming/games-wabot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChitatoeKid/games-wabot)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
@@ -62,7 +62,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/BochilGaming/games-wabot
+git clone https://github.com/ChitatoeKid/games-wabot
 cd games-wabot
 npm install
 npm update
@@ -78,7 +78,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/BochilGaming/games-wabot
+git clone https://github.com/ChitatoeKid/games-wabot
 cd games-wabot
 npm install
 npm update
