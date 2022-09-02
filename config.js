@@ -6,14 +6,14 @@ global.Owner = {
     name: 'Dave',
     isDev: false, // if true this number will send if bot have bug and developer mode true
     isReport: false, // if true this number will send if user use command /report or /join
-    isCreator: true // if true this number will send if user use command /owner or /creator
+    isCreator: false // if true this number will send if user use command /owner or /creator
   },
   '6285750823860': { // put your number here
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '': { // put your number here
+  '6285651130518': { // put your number here
     name: 'Dave',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
@@ -22,9 +22,6 @@ global.Owner = {
   '': {
     name: 'Adiixyz',
     isReport: true, // if true this number will send if user use command /report or /join
-  },
-  '': {
-    isReport: true
   },
   '17152621313': {} // ignore if you don't want anything, like name dll
 }
